@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloRanjith</string>
+    <string name="edit_message">Enter a Message</string>
+    <string name="Button_Label">Send Message</string>
+    <string name="Welcome_Message">Welcome to Android Facility</string>
+    <string name="FinalActivityMessage">Welcome to Android Final ACtivity</string>
+    <string name="FInal_Activity_Button">Open Final Activity</string>
+</resources>
